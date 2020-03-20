@@ -6,3 +6,6 @@
 -Put Root="/path/to/your/public/directory/" in your .env file.  
 -Yarn install  
 -Yarn start
+
+# Versions
+-Node: 13.8.0
