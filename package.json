@@ -136,7 +136,7 @@
     "mime-db": "^1.43.0",
     "mime-types": "^2.1.26",
     "minimatch": "^3.0.4",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.6",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
