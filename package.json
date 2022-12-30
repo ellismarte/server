@@ -69,7 +69,7 @@
     "fill-range": "^7.0.1",
     "finalhandler": "^1.1.2",
     "find-up": "^3.0.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "forwarded": "^0.1.2",
     "fresh": "^0.5.2",
     "fs.realpath": "^1.0.0",
